@@ -1,3 +1,4 @@
 Test SSH connection
 Test GPG commit
 2eme test de push verifier
+test verifier 3
